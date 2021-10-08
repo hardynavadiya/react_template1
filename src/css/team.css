@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+}
+
+
+.avatar{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.main_class{
+    display: flex; 
+    justify-content: space-around;
+}

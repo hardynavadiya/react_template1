@@ -1,0 +1,42 @@
+.heading {
+  text-align: center;
+  padding-top: 20px;
+}
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 33%;
+  float: left;
+  padding: 20px;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+.w3-teal, .w3-hover-teal:hover {
+  color: #fff!important;
+  background-color: #009688!important;
+}
+
+.w3-padding-large {
+  padding: 12px 24px!important;
+}
+
+.w3-button:hover {
+  color: #000!important;
+  background-color: #ccc!important;
+}

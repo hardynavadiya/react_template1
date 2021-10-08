@@ -1,0 +1,4 @@
+.main_demo{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,16 @@
+.main{
+    background-color: black;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.icon{
+    color: white;
+    background-color: teal;
+    /* border: 2px solid green; */
+    padding: 20px;
+    margin-left: 10px;
+    font-size: larger;
+}
